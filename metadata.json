@@ -1,0 +1,6 @@
+{
+  "name": "МАХ Кейсы — Биржа проектов и вакансий для студентов в мессенджере МАХ",
+  "description": "Официальный Mini App для платформы МАХ (VK Group): поиск проектных кейсов, биржа задач для студентов и работодателей с безопасной сделкой, портфолио и чатом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

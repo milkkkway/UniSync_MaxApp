@@ -1,0 +1,9 @@
+meta:
+  environment: static web
+  toolchain:
+    name: npm
+    version: '20'
+build:
+  additionalCommands: npm install --legacy-peer-deps && npm run build
+  artifacts:
+    dist/*: /
