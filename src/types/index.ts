@@ -1,3 +1,5 @@
+export const APP_BUILD_REV = '1.0.1';
+
 export type UserRole = 'student' | 'employer';
 
 export interface User {
